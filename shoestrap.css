@@ -31,6 +31,10 @@
   width: 33.33333333%;
 }
 
+.col-5{
+  float: left;
+  width: 41.66666666%;
+}
   .row:before {
     display: table;
     content: "";
